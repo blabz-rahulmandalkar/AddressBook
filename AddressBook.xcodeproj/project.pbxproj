@@ -51,7 +51,7 @@
 		0ACF686521130357002A96A9 = {
 			isa = PBXGroup;
 			children = (
-				0ACF687021130357002A96A9 /* DemoApp */,
+				0ACF687021130357002A96A9 /* AddressBook */,
 				0ACF686F21130357002A96A9 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -64,7 +64,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		0ACF687021130357002A96A9 /* DemoApp */ = {
+		0ACF687021130357002A96A9 /* AddressBook */ = {
 			isa = PBXGroup;
 			children = (
 				0A58B6ED211957C50075EE8C /* AddressBookManager.swift */,
@@ -74,7 +74,7 @@
 				0A58B6EB211957A30075EE8C /* AddressBook.swift */,
 				0A58B6EF211959BE0075EE8C /* Utility.swift */,
 			);
-			path = DemoApp;
+			path = AddressBook;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
