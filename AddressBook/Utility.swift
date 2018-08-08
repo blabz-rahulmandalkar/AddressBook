@@ -11,4 +11,8 @@ class Utility{
         return persons
     }
     
+    static func write(){
+        
+    }
+    
 }
