@@ -11,12 +11,5 @@ class Utility{
         return persons
     }
     
-    static func read(){
-        //Added
-    }
-    
-    static func readPlus(){
-        //Added
-    }
     
 }
