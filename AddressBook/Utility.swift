@@ -15,4 +15,8 @@ class Utility{
         //Added
     }
     
+    static func readPlus(){
+        //Added
+    }
+    
 }
